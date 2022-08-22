@@ -4,6 +4,7 @@ by the specialized doctors.
 
 The users in this project are: patient, doctor and admin
 where, 
+
 admin have control of viewing patient details, doctor details, departments of doctors.
 admin can also add, delete or update blogs
 admin can also delete or update contact details and so on.
